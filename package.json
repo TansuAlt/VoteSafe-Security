@@ -1,7 +1,12 @@
 {
+<<<<<<< HEAD
   "name": "votesafe-backend",
   "version": "1.0.0",
   "description": "",
+=======
+  "name": "secure",
+  "version": "1.0.0",
+>>>>>>> 712aac412ab103e23074b5f291682f0c311969c3
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "type": "commonjs",
   "dependencies": {
     "cors": "^2.8.5",
@@ -26,5 +32,12 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.11"
+=======
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+>>>>>>> 712aac412ab103e23074b5f291682f0c311969c3
   }
 }
